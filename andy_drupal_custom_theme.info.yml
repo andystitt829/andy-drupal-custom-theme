@@ -4,6 +4,7 @@ type: theme
 starterkit: true
 version: VERSION
 libraries:
+  - andy_drupal_custom_theme/bootstrap_cdn
   - andy_drupal_custom_theme/base
   - andy_drupal_custom_theme/messages
   - core/normalize
